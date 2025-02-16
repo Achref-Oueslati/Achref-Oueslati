@@ -8,19 +8,19 @@ Dedicated AI & IoT developer with expertise in IoT integration, microcontroller 
 
 ## Skills  
 Skills:
-IoT Development
-AI (machine and deep learning)
-Tensorflow
-Keras
-Scikit-learn
-LLM
-Python
-C++
-Embedded Systems
-Microcontroller Programming (ESP32, STM32, Arduino,Raspberry PI)
-MQTT
-Docker, Docker Compose
-Linux
+- IoT Development
+- AI (machine and deep learning)
+- Tensorflow
+- Keras
+- Scikit-learn
+- LLM
+- Python
+- C++
+- Embedded Systems
+- Microcontroller Programming (ESP32, STM32, Arduino,Raspberry PI)
+- MQTT
+- Docker, Docker Compose
+- Linux
 ## Get Involved  
 - If you're interested in collaborating or have questions, feel free to reach out!
 
