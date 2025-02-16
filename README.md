@@ -4,7 +4,8 @@
 Dedicated AI & IoT developer with expertise in IoT integration, microcontroller programming and AI-driven applications. I have proven my success in developing and deploying smart solutions, proficiency in multiple programming languages and experience in leading innovative projects in Artificial Intelligence and IoT.
   - 📫 How to reach me:   
   - Email: [oueslati.ashreff@gmail.com] 
-  - LinkedIn: [www.linkedin.com/in/oueslatiachref] 
+  - LinkedIn: [www.linkedin.com/in/oueslatiachref]
+  - upwork: https://www.upwork.com/freelancers/~012eefd20d8cb8c267?mp_source=share
 
 ## Skills  
 Skills:
