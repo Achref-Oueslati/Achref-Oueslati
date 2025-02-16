@@ -1,20 +1,26 @@
 # Hi, I’m @Achref-Oueslati 👋  
 
 ## About Me  
-- 👀 I’m a master's student currently in my final year in Smart Systems and IoT. I'm interested in learning new things and skills concerning IoT and Machine learning Development.  
-- 🌱 I want to learn new skills and find a job that matches my desires and ambitions in the IoT development industry.  
-- 💞️ I’m looking to collaborate on projects related to IoT and AI .  
-- 📫 How to reach me:   
+Dedicated AI & IoT developer with expertise in IoT integration, microcontroller programming and AI-driven applications. I have proven my success in developing and deploying smart solutions, proficiency in multiple programming languages and experience in leading innovative projects in Artificial Intelligence and IoT.
+  - 📫 How to reach me:   
   - Email: [oueslati.ashreff@gmail.com] 
   - LinkedIn: [www.linkedin.com/in/oueslatiachref] 
 
 ## Skills  
-- C++  
-- Embedded C  
-- Python  
-- Linux  
-- Deep Learning/Machine Learning  
-
+Skills:
+IoT Development
+AI (machine and deep learning)
+Tensorflow
+Keras
+Scikit-learn
+LLM
+Python
+C++
+Embedded Systems
+Microcontroller Programming (ESP32, STM32, Arduino,Raspberry PI)
+MQTT
+Docker, Docker Compose
+Linux
 ## Get Involved  
 - If you're interested in collaborating or have questions, feel free to reach out!
 
